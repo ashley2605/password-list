@@ -1,0 +1,15 @@
+root
+administrator
+webadmin
+sysadmin
+msfadmin
+netadmin
+admin
+guest
+kali liinux
+linux
+kali
+user
+web
+groot
+test
